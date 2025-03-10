@@ -44,12 +44,13 @@ pip install -r requirements.txt
 python AiVirtualMouseProject.py
 ```
 
-##🖥️ How to Use
-Run the script and keep your hand visible to the camera.
-Index finger up → Move the cursor.
-Both index & middle fingers up → Click action.
-All fingers up → Scroll up.
-Thumb & pinky up → Scroll down.
-Make a fist → Stop movement.
-🛑 Press ‘q’ to exit the program.
+###🖥️ How to Use
+
+1. Run the script and keep your hand visible to the camera.
+2. Index finger up → Move the cursor.
+3. Both index & middle fingers up → Click action.
+4. All fingers up → Scroll up.
+5. Thumb & pinky up → Scroll down.
+6. Make a fist → Stop movement.
+7. 🛑 Press ‘q’ to exit the program.
 
